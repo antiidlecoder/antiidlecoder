@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @antiidlecoder
+- 👀 I’m interested in nextjs, blockchain, nature, music
+- 🌱 I’m currently learning typescript and more
+- 💞️ I’m looking to collaborate on a open source project
+- 📫 How to reach me twitter (at)_nuvie
